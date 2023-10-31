@@ -7,7 +7,8 @@
 			"files": [
 				"C:/Users/psyche95/Documents/Unreal Projects/Dev_Sample/2DPaperGame/Content/Blueprints/BP_Knight.uasset",
 				"C:/Users/psyche95/Documents/Unreal Projects/Dev_Sample/2DPaperGame/Content/Maps/DevMap.umap",
-				"C:/Users/psyche95/Documents/Unreal Projects/Dev_Sample/2DPaperGame/Content/Blueprints/EDirection.uasset"
+				"C:/Users/psyche95/Documents/Unreal Projects/Dev_Sample/2DPaperGame/Content/Blueprints/EDirection.uasset",
+				"C:/Users/psyche95/Documents/Unreal Projects/Dev_Sample/2DPaperGame/Content/Blueprints/EState.uasset"
 			]
 		}
 	]

@@ -3081,3 +3081,463 @@ Script call stack:
 [2023.10.30-10.17.35:932][967]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
 [2023.10.30-10.17.35:936][967]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
 [2023.10.30-10.17.35:971][968]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2023.10.30-10.47.29:823][512]LogDerivedDataCache: C:/Users/psyche95/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:23.047 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 13615 files in 11985 folders with total size 958 MiB.
+[2023.10.30-10.51.57:306][309]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [ 5 Seconds] waiting for h/w. InstanceID=1
+[2023.10.31-00.37.01:073][309]LogShaderCompilers: Warning: Distributed compilation controller didn't receive a completed task in 49502.458806 seconds!
+[2023.10.31-00.37.02:533][309]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=34088
+[2023.10.31-00.37.02:601][309]LogAutomationController: Ignoring very large delta of 49507.31 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.10.31-00.37.02:939][311]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{5ad78f20-9b6c-44bb-9651-cc10cc354a8c}, Name=Realtek HD Audio 2nd output(Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=256.66
+[2023.10.31-00.37.02:939][311]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2023.10.31-00.37.02:940][311]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2023.10.31-01.32.31:846][726]LogDerivedDataCache: C:/Users/psyche95/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:23.057 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 13615 files in 11985 folders with total size 958 MiB.
+[2023.10.31-01.37.24:696][ 96]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2023.10.31-02.32.31:956][833]LogDerivedDataCache: C:/Users/psyche95/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:23.028 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 13615 files in 11985 folders with total size 958 MiB.
+[2023.10.31-03.32.32:116][965]LogDerivedDataCache: C:/Users/psyche95/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:23.025 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 13615 files in 11985 folders with total size 958 MiB.
+[2023.10.31-04.32.32:225][762]LogDerivedDataCache: C:/Users/psyche95/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:23.021 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 13615 files in 11985 folders with total size 958 MiB.
+[2023.10.31-04.54.06:858][399]LogUObjectHash: Compacting FUObjectHashTables data took  13.39ms
+[2023.10.31-04.54.06:868][399]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/DevMap' took 0.128
+[2023.10.31-04.54.06:870][399]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Knight] ([2] browsable assets)...
+[2023.10.31-04.54.06:871][399]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Knight]
+[2023.10.31-04.54.06:907][399]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Knight_Auto6
+[2023.10.31-04.54.06:907][399]LogSavePackage: Moving '../../../../../../Users/psyche95/Documents/Unreal Projects/Dev_Sample/2DPaperGame/Saved/BP_Knight_Auto642A5C6334B8A6537F690A492003A710C.tmp' to '../../../../../../Users/psyche95/Documents/Unreal Projects/Dev_Sample/2DPaperGame/Saved/Autosaves/Game/Blueprints/BP_Knight_Auto6.uasset'
+[2023.10.31-04.54.06:908][399]LogFileHelpers: Auto-saving content packages took 0.040
+[2023.10.31-04.54.44:486][491]LogEditorTransaction: Undo Change Parameter Type
+[2023.10.31-05.02.12:784][985]BlueprintLog: New page: Compile BP_Knight
+[2023.10.31-05.02.12:858][985]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.10.31-05.06.08:069][237]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2023.10.31-05.06.08:070][237]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/DevMap' took 0.014
+[2023.10.31-05.06.08:071][237]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Knight] ([2] browsable assets)...
+[2023.10.31-05.06.08:071][237]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Knight]
+[2023.10.31-05.06.08:082][237]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Knight_Auto7
+[2023.10.31-05.06.08:082][237]LogSavePackage: Moving '../../../../../../Users/psyche95/Documents/Unreal Projects/Dev_Sample/2DPaperGame/Saved/BP_Knight_Auto793C68275404D95635B47DE990F5E403E.tmp' to '../../../../../../Users/psyche95/Documents/Unreal Projects/Dev_Sample/2DPaperGame/Saved/Autosaves/Game/Blueprints/BP_Knight_Auto7.uasset'
+[2023.10.31-05.06.08:083][237]LogFileHelpers: Auto-saving content packages took 0.012
+[2023.10.31-05.18.08:333][967]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2023.10.31-05.18.08:335][967]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/DevMap' took 0.017
+[2023.10.31-05.18.08:336][967]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Knight] ([2] browsable assets)...
+[2023.10.31-05.18.08:336][967]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Knight]
+[2023.10.31-05.18.08:347][967]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Knight_Auto8
+[2023.10.31-05.18.08:347][967]LogSavePackage: Moving '../../../../../../Users/psyche95/Documents/Unreal Projects/Dev_Sample/2DPaperGame/Saved/BP_Knight_Auto8E524967249F586DF27D4EEB2C9931E4F.tmp' to '../../../../../../Users/psyche95/Documents/Unreal Projects/Dev_Sample/2DPaperGame/Saved/Autosaves/Game/Blueprints/BP_Knight_Auto8.uasset'
+[2023.10.31-05.18.08:348][967]LogFileHelpers: Auto-saving content packages took 0.012
+[2023.10.31-05.20.23:389][805]LogSlateStyle: Warning: Missing Resource from 'CoreStyle' Style: 'Unable to find Color 'Graph.Node.Comment.TextColor'.'
+[2023.10.31-05.21.17:366][425]LogEditorTransaction: Undo Move Node
+[2023.10.31-05.23.45:389][ 51]BlueprintLog: New page: Compile BP_Knight
+[2023.10.31-05.23.45:415][ 51]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2023.10.31-05.23.46:034][111]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.31-05.23.46:087][111]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Knight" FILE="../../../../../../Users/psyche95/Documents/Unreal Projects/Dev_Sample/2DPaperGame/Content/Blueprints/BP_Knight.uasset" SILENT=true
+[2023.10.31-05.23.46:097][111]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Knight
+[2023.10.31-05.23.46:098][111]LogSavePackage: Moving '../../../../../../Users/psyche95/Documents/Unreal Projects/Dev_Sample/2DPaperGame/Saved/BP_Knight4C4176C641075EB3879EAF85B74DEFE0.tmp' to '../../../../../../Users/psyche95/Documents/Unreal Projects/Dev_Sample/2DPaperGame/Content/Blueprints/BP_Knight.uasset'
+[2023.10.31-05.23.46:105][111]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 1.53 sec)
+[2023.10.31-05.23.46:111][111]AssetCheck: New page: Asset Save: BP_Knight
+[2023.10.31-05.23.46:111][111]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Knight.BP_Knight
+[2023.10.31-05.23.48:636][360]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.31-05.23.48:648][360]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.31-05.23.48:649][360]PIE: New page: PIE session: DevMap (2023. 10. 31. 오후 11:23:48)
+[2023.10.31-05.23.48:651][360]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DevMap
+[2023.10.31-05.23.48:655][360]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003337s)
+[2023.10.31-05.23.48:655][360]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DevMap.DevMap to /Game/Maps/UEDPIE_0_DevMap.DevMap (0.003504s)
+[2023.10.31-05.23.48:667][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.10.31-05.23.48:672][360]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.31-05.23.48:674][360]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.31-05.23.48:678][360]LogAIModule: Creating AISystem for world DevMap
+[2023.10.31-05.23.48:684][360]LogPlayLevel: PIE: World Init took: (0.014097s)
+[2023.10.31-05.23.48:685][360]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2023.10.31-05.23.48:685][360]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.31-05.23.48:685][360]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.31-05.23.48:685][360]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.31-05.23.48:685][360]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.31-05.23.48:685][360]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.31-05.23.48:685][360]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.31-05.23.48:685][360]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.31-05.23.48:685][360]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.31-05.23.48:686][360]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.31-05.23.48:686][360]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.31-05.23.48:686][360]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.31-05.23.48:688][360]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.31-05.23.48:710][360]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output(Realtek(R) Audio)
+[2023.10.31-05.23.48:710][360]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.31-05.23.48:710][360]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.31-05.23.48:710][360]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.31-05.23.48:711][360]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2023.10.31-05.23.48:711][360]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2023.10.31-05.23.48:713][360]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2023.10.31-05.23.48:713][360]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2023.10.31-05.23.48:713][360]LogInit: FAudioDevice initialized with ID 28.
+[2023.10.31-05.23.48:713][360]LogAudio: Display: Audio Device (ID: 28) registered with world 'DevMap'.
+[2023.10.31-05.23.48:713][360]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2023.10.31-05.23.48:724][360]LogLoad: Game class is 'GameModeBase'
+[2023.10.31-05.23.48:726][360]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DevMap.DevMap up for play (max tick rate 0) at 2023.10.31-14.23.48
+[2023.10.31-05.23.48:727][360]LogWorld: Bringing up level for play took: 0.002000
+[2023.10.31-05.23.48:736][360]LogOnline: OSS: Created online subsystem instance for: :Context_31
+[2023.10.31-05.23.48:744][360]PIE: Server logged in
+[2023.10.31-05.23.48:745][360]PIE: Play in editor total start time 0.103 seconds.
+[2023.10.31-05.23.56:986][335]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.31-05.23.56:986][335]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DevMap
+[2023.10.31-05.23.56:986][335]LogWorld: UWorld::CleanupWorld for DevMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.31-05.23.56:987][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.31-05.23.57:001][335]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.31-05.23.57:003][335]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.31-05.23.57:014][335]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.31-05.23.57:015][335]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2023.10.31-05.23.57:015][335]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2023.10.31-05.23.57:016][335]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2023.10.31-05.23.57:023][335]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2023.10.31-05.23.57:071][336]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2023.10.31-05.26.09:510][742]LogContentBrowser: Deferred new asset file creation: NewUserDefinedEnum
+[2023.10.31-05.26.09:515][742]LogContentBrowser: Creating deferred item: NewUserDefinedEnum
+[2023.10.31-05.26.09:522][743]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedEnum).
+[2023.10.31-05.26.13:223][173]LogContentBrowser: Attempting asset rename: NewUserDefinedEnum -> EState
+[2023.10.31-05.26.13:238][173]LogContentBrowser: End creating deferred item NewUserDefinedEnum
+[2023.10.31-05.26.16:523][560]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Blueprints/EState.EState
+[2023.10.31-05.26.47:068][324]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.31-05.26.47:114][324]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/EState" FILE="../../../../../../Users/psyche95/Documents/Unreal Projects/Dev_Sample/2DPaperGame/Content/Blueprints/EState.uasset" SILENT=true
+[2023.10.31-05.26.47:116][324]LogSavePackage: Moving output files for package: /Game/Blueprints/EState
+[2023.10.31-05.26.47:116][324]LogSavePackage: Moving '../../../../../../Users/psyche95/Documents/Unreal Projects/Dev_Sample/2DPaperGame/Saved/EState97CA88594A9A1DC99A6465A5148E2A73.tmp' to '../../../../../../Users/psyche95/Documents/Unreal Projects/Dev_Sample/2DPaperGame/Content/Blueprints/EState.uasset'
+[2023.10.31-05.26.47:124][324]LogFileHelpers: InternalPromptForCheckoutAndSave took 55 ms (total: 1.59 sec)
+[2023.10.31-05.26.47:126][324]AssetCheck: New page: Asset Save: EState
+[2023.10.31-05.26.47:126][324]LogContentValidation: Display: Validating /Script/Engine.UserDefinedEnum /Game/Blueprints/EState.EState
+[2023.10.31-05.26.48:894][534]LogSlate: Window 'EState' being destroyed
+[2023.10.31-05.26.48:897][534]LogSlate: Window 'EState' being destroyed
+[2023.10.31-05.32.31:322][815]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.10.31-05.32.31:328][815]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/DevMap' took 0.025
+[2023.10.31-05.32.31:328][815]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Knight] ([2] browsable assets)...
+[2023.10.31-05.32.31:328][815]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Knight]
+[2023.10.31-05.32.31:339][815]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Knight_Auto9
+[2023.10.31-05.32.31:340][815]LogSavePackage: Moving '../../../../../../Users/psyche95/Documents/Unreal Projects/Dev_Sample/2DPaperGame/Saved/BP_Knight_Auto965265608493434BA1415CC9A45980DC7.tmp' to '../../../../../../Users/psyche95/Documents/Unreal Projects/Dev_Sample/2DPaperGame/Saved/Autosaves/Game/Blueprints/BP_Knight_Auto9.uasset'
+[2023.10.31-05.32.31:340][815]LogFileHelpers: Auto-saving content packages took 0.012
+[2023.10.31-05.32.32:445][819]LogDerivedDataCache: C:/Users/psyche95/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:23.077 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 13615 files in 11985 folders with total size 958 MiB.
+[2023.10.31-05.33.12:748][366]BlueprintLog: New page: Compile BP_Knight
+[2023.10.31-05.33.12:770][366]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2023.10.31-05.35.52:861][140]BlueprintLog: New page: Compile BP_Knight
+[2023.10.31-05.35.52:887][140]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2023.10.31-05.40.44:946][696]BlueprintLog: New page: Compile BP_Knight
+[2023.10.31-05.40.44:979][696]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.10.31-05.42.31:729][239]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2023.10.31-05.42.31:733][239]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/DevMap' took 0.014
+[2023.10.31-05.42.31:733][239]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Knight] ([2] browsable assets)...
+[2023.10.31-05.42.31:733][239]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Knight]
+[2023.10.31-05.42.31:745][239]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Knight_Auto0
+[2023.10.31-05.42.31:745][239]LogSavePackage: Moving '../../../../../../Users/psyche95/Documents/Unreal Projects/Dev_Sample/2DPaperGame/Saved/BP_Knight_Auto0093F857D4B9E755B823ED6925F572693.tmp' to '../../../../../../Users/psyche95/Documents/Unreal Projects/Dev_Sample/2DPaperGame/Saved/Autosaves/Game/Blueprints/BP_Knight_Auto0.uasset'
+[2023.10.31-05.42.31:745][239]LogFileHelpers: Auto-saving content packages took 0.012
+[2023.10.31-05.46.30:358][257]BlueprintLog: New page: Compile BP_Knight
+[2023.10.31-05.46.30:384][257]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.10.31-05.46.32:818][538]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.31-05.46.32:822][538]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.10.31-05.46.32:828][538]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2023.10.31-05.46.32:845][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.10.31-05.46.32:848][538]LogPlayLevel: PlayLevel: Blueprint regeneration took 25 ms (1 blueprints)
+[2023.10.31-05.46.32:848][538]PIE: New page: PIE session: DevMap (2023. 10. 31. 오후 11:46:32)
+[2023.10.31-05.46.32:849][538]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DevMap
+[2023.10.31-05.46.32:850][538]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000876s)
+[2023.10.31-05.46.32:850][538]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DevMap.DevMap to /Game/Maps/UEDPIE_0_DevMap.DevMap (0.000907s)
+[2023.10.31-05.46.32:860][538]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2023.10.31-05.46.32:861][538]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.31-05.46.32:861][538]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.31-05.46.32:862][538]LogAIModule: Creating AISystem for world DevMap
+[2023.10.31-05.46.32:862][538]LogPlayLevel: PIE: World Init took: (0.000878s)
+[2023.10.31-05.46.32:862][538]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2023.10.31-05.46.32:862][538]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.31-05.46.32:862][538]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.31-05.46.32:862][538]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.31-05.46.32:862][538]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.31-05.46.32:862][538]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.31-05.46.32:862][538]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.31-05.46.32:862][538]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.31-05.46.32:862][538]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.31-05.46.32:863][538]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.31-05.46.32:863][538]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.31-05.46.32:863][538]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.31-05.46.32:867][538]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.31-05.46.32:887][538]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output(Realtek(R) Audio)
+[2023.10.31-05.46.32:887][538]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.31-05.46.32:887][538]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.31-05.46.32:887][538]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.31-05.46.32:888][538]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2023.10.31-05.46.32:888][538]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2023.10.31-05.46.32:890][538]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2023.10.31-05.46.32:890][538]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2023.10.31-05.46.32:890][538]LogInit: FAudioDevice initialized with ID 29.
+[2023.10.31-05.46.32:890][538]LogAudio: Display: Audio Device (ID: 29) registered with world 'DevMap'.
+[2023.10.31-05.46.32:890][538]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2023.10.31-05.46.32:893][538]LogLoad: Game class is 'GameModeBase'
+[2023.10.31-05.46.32:893][538]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DevMap.DevMap up for play (max tick rate 0) at 2023.10.31-14.46.32
+[2023.10.31-05.46.32:893][538]LogWorld: Bringing up level for play took: 0.000436
+[2023.10.31-05.46.32:895][538]LogOnline: OSS: Created online subsystem instance for: :Context_32
+[2023.10.31-05.46.32:896][538]PIE: Server logged in
+[2023.10.31-05.46.32:896][538]PIE: Play in editor total start time 0.075 seconds.
+[2023.10.31-05.47.25:855][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.31-05.47.25:855][796]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DevMap
+[2023.10.31-05.47.25:855][796]LogWorld: UWorld::CleanupWorld for DevMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.31-05.47.25:855][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.31-05.47.25:872][796]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.31-05.47.25:874][796]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.31-05.47.25:880][796]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.31-05.47.25:880][796]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2023.10.31-05.47.25:880][796]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2023.10.31-05.47.25:881][796]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2023.10.31-05.47.25:890][796]LogUObjectHash: Compacting FUObjectHashTables data took   1.04ms
+[2023.10.31-05.47.25:929][797]LogPlayLevel: Display: Destroying online subsystem :Context_32
+[2023.10.31-05.47.33:367][659]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.10.31-05.47.33:371][659]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.31-05.47.33:421][659]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Knight" FILE="../../../../../../Users/psyche95/Documents/Unreal Projects/Dev_Sample/2DPaperGame/Content/Blueprints/BP_Knight.uasset" SILENT=true
+[2023.10.31-05.47.33:433][659]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Knight
+[2023.10.31-05.47.33:433][659]LogSavePackage: Moving '../../../../../../Users/psyche95/Documents/Unreal Projects/Dev_Sample/2DPaperGame/Saved/BP_KnightA5BD5F8C4B5AD498888639A1F36BD8B2.tmp' to '../../../../../../Users/psyche95/Documents/Unreal Projects/Dev_Sample/2DPaperGame/Content/Blueprints/BP_Knight.uasset'
+[2023.10.31-05.47.33:439][659]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 1.65 sec)
+[2023.10.31-05.47.33:441][659]AssetCheck: New page: Asset Save: BP_Knight
+[2023.10.31-05.47.33:441][659]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Knight.BP_Knight
+[2023.10.31-05.48.31:255][738]BlueprintLog: New page: Compile BP_Knight
+[2023.10.31-05.48.31:283][738]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.10.31-05.48.32:908][926]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.31-05.48.32:938][926]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Knight" FILE="../../../../../../Users/psyche95/Documents/Unreal Projects/Dev_Sample/2DPaperGame/Content/Blueprints/BP_Knight.uasset" SILENT=true
+[2023.10.31-05.48.32:950][926]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Knight
+[2023.10.31-05.48.32:950][926]LogSavePackage: Moving '../../../../../../Users/psyche95/Documents/Unreal Projects/Dev_Sample/2DPaperGame/Saved/BP_Knight13C8E5F64E743DDC2E5C1397F6765D62.tmp' to '../../../../../../Users/psyche95/Documents/Unreal Projects/Dev_Sample/2DPaperGame/Content/Blueprints/BP_Knight.uasset'
+[2023.10.31-05.48.32:955][926]LogFileHelpers: InternalPromptForCheckoutAndSave took 47 ms (total: 1.70 sec)
+[2023.10.31-05.48.32:958][926]AssetCheck: New page: Asset Save: BP_Knight
+[2023.10.31-05.48.32:958][926]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Knight.BP_Knight
+[2023.10.31-06.32.32:495][147]LogDerivedDataCache: C:/Users/psyche95/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:23.017 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 13615 files in 11985 folders with total size 958 MiB.
+[2023.10.31-06.47.49:660][269]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2023.10.31-06.47.49:661][269]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/DevMap' took 0.012
+[2023.10.31-06.47.49:662][269]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Knight] ([2] browsable assets)...
+[2023.10.31-06.47.49:662][269]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Knight]
+[2023.10.31-06.47.49:678][269]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Knight_Auto1
+[2023.10.31-06.47.49:679][269]LogSavePackage: Moving '../../../../../../Users/psyche95/Documents/Unreal Projects/Dev_Sample/2DPaperGame/Saved/BP_Knight_Auto18000F9604E71F43B240EADAAD091F286.tmp' to '../../../../../../Users/psyche95/Documents/Unreal Projects/Dev_Sample/2DPaperGame/Saved/Autosaves/Game/Blueprints/BP_Knight_Auto1.uasset'
+[2023.10.31-06.47.49:680][269]LogFileHelpers: Auto-saving content packages took 0.018
+[2023.10.31-06.48.50:190][581]BlueprintLog: New page: Compile BP_Knight
+[2023.10.31-06.48.50:218][581]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.10.31-06.49.32:667][348]BlueprintLog: New page: Compile BP_Knight
+[2023.10.31-06.49.32:694][348]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.10.31-06.50.27:437][ 27]BlueprintLog: New page: Compile BP_Knight
+[2023.10.31-06.50.27:462][ 27]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.10.31-06.50.39:931][927]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.10.31-06.50.39:937][927]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.31-06.50.39:979][927]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Knight" FILE="../../../../../../Users/psyche95/Documents/Unreal Projects/Dev_Sample/2DPaperGame/Content/Blueprints/BP_Knight.uasset" SILENT=true
+[2023.10.31-06.50.39:991][927]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Knight
+[2023.10.31-06.50.39:991][927]LogSavePackage: Moving '../../../../../../Users/psyche95/Documents/Unreal Projects/Dev_Sample/2DPaperGame/Saved/BP_KnightE64DA94546466287E4B7F1B0D1215C83.tmp' to '../../../../../../Users/psyche95/Documents/Unreal Projects/Dev_Sample/2DPaperGame/Content/Blueprints/BP_Knight.uasset'
+[2023.10.31-06.50.39:997][927]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 1.76 sec)
+[2023.10.31-06.50.39:998][927]AssetCheck: New page: Asset Save: BP_Knight
+[2023.10.31-06.50.39:998][927]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Knight.BP_Knight
+[2023.10.31-06.50.41:948][136]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.31-06.50.41:953][136]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.31-06.50.41:953][136]PIE: New page: PIE session: DevMap (2023. 11. 1. 오전 12:50:41)
+[2023.10.31-06.50.41:954][136]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DevMap
+[2023.10.31-06.50.41:955][136]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001285s)
+[2023.10.31-06.50.41:955][136]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DevMap.DevMap to /Game/Maps/UEDPIE_0_DevMap.DevMap (0.001319s)
+[2023.10.31-06.50.41:964][136]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2023.10.31-06.50.41:966][136]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.31-06.50.41:966][136]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.31-06.50.41:966][136]LogAIModule: Creating AISystem for world DevMap
+[2023.10.31-06.50.41:967][136]LogPlayLevel: PIE: World Init took: (0.000770s)
+[2023.10.31-06.50.41:967][136]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2023.10.31-06.50.41:967][136]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.31-06.50.41:967][136]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.31-06.50.41:967][136]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.31-06.50.41:967][136]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.31-06.50.41:967][136]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.31-06.50.41:967][136]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.31-06.50.41:967][136]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.31-06.50.41:967][136]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.31-06.50.41:967][136]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.31-06.50.41:967][136]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.31-06.50.41:967][136]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.31-06.50.41:969][136]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.31-06.50.41:990][136]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output(Realtek(R) Audio)
+[2023.10.31-06.50.41:991][136]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.31-06.50.41:991][136]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.31-06.50.41:991][136]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.31-06.50.41:992][136]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2023.10.31-06.50.41:992][136]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2023.10.31-06.50.41:993][136]LogInit: FAudioDevice initialized with ID 30.
+[2023.10.31-06.50.41:993][136]LogAudio: Display: Audio Device (ID: 30) registered with world 'DevMap'.
+[2023.10.31-06.50.41:993][136]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2023.10.31-06.50.41:993][136]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2023.10.31-06.50.41:994][136]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2023.10.31-06.50.41:996][136]LogLoad: Game class is 'GameModeBase'
+[2023.10.31-06.50.41:996][136]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DevMap.DevMap up for play (max tick rate 0) at 2023.10.31-15.50.41
+[2023.10.31-06.50.41:996][136]LogWorld: Bringing up level for play took: 0.000415
+[2023.10.31-06.50.41:998][136]LogOnline: OSS: Created online subsystem instance for: :Context_33
+[2023.10.31-06.50.41:998][136]PIE: Server logged in
+[2023.10.31-06.50.41:999][136]PIE: Play in editor total start time 0.048 seconds.
+[2023.10.31-06.50.51:450][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.31-06.50.51:451][252]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DevMap
+[2023.10.31-06.50.51:451][252]LogWorld: UWorld::CleanupWorld for DevMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.31-06.50.51:451][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.31-06.50.51:461][252]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.31-06.50.51:463][252]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.31-06.50.51:470][252]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.31-06.50.51:470][252]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2023.10.31-06.50.51:470][252]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2023.10.31-06.50.51:471][252]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2023.10.31-06.50.51:477][252]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.10.31-06.50.51:517][253]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2023.10.31-06.55.20:195][936]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2023.10.31-06.55.20:199][936]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.31-06.55.20:260][936]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Knight" FILE="../../../../../../Users/psyche95/Documents/Unreal Projects/Dev_Sample/2DPaperGame/Content/Blueprints/BP_Knight.uasset" SILENT=true
+[2023.10.31-06.55.20:273][936]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Knight
+[2023.10.31-06.55.20:273][936]LogSavePackage: Moving '../../../../../../Users/psyche95/Documents/Unreal Projects/Dev_Sample/2DPaperGame/Saved/BP_Knight4438111B42343EF36231368B0C1FC325.tmp' to '../../../../../../Users/psyche95/Documents/Unreal Projects/Dev_Sample/2DPaperGame/Content/Blueprints/BP_Knight.uasset'
+[2023.10.31-06.55.20:279][936]LogFileHelpers: InternalPromptForCheckoutAndSave took 79 ms (total: 1.84 sec)
+[2023.10.31-06.55.20:281][936]AssetCheck: New page: Asset Save: BP_Knight
+[2023.10.31-06.55.20:281][936]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Knight.BP_Knight
+[2023.10.31-06.55.39:393][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.10.31-06.55.39:397][ 83]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.31-06.55.39:447][ 83]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Knight" FILE="../../../../../../Users/psyche95/Documents/Unreal Projects/Dev_Sample/2DPaperGame/Content/Blueprints/BP_Knight.uasset" SILENT=true
+[2023.10.31-06.55.39:460][ 83]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Knight
+[2023.10.31-06.55.39:460][ 83]LogSavePackage: Moving '../../../../../../Users/psyche95/Documents/Unreal Projects/Dev_Sample/2DPaperGame/Saved/BP_KnightA23E5467417F4779C9F1F1B0989CA210.tmp' to '../../../../../../Users/psyche95/Documents/Unreal Projects/Dev_Sample/2DPaperGame/Content/Blueprints/BP_Knight.uasset'
+[2023.10.31-06.55.39:466][ 83]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 1.91 sec)
+[2023.10.31-06.55.39:468][ 83]AssetCheck: New page: Asset Save: BP_Knight
+[2023.10.31-06.55.39:468][ 83]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Knight.BP_Knight
+[2023.10.31-06.55.40:281][179]BlueprintLog: New page: Compile BP_Knight
+[2023.10.31-06.55.40:305][179]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.10.31-07.01.49:966][988]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.10.31-07.01.49:968][988]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/DevMap' took 0.013
+[2023.10.31-07.01.49:968][988]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Knight] ([2] browsable assets)...
+[2023.10.31-07.01.49:968][988]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Knight]
+[2023.10.31-07.01.49:981][988]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Knight_Auto2
+[2023.10.31-07.01.49:982][988]LogSavePackage: Moving '../../../../../../Users/psyche95/Documents/Unreal Projects/Dev_Sample/2DPaperGame/Saved/BP_Knight_Auto257A02F304A8E07F27771B9BD8C953B20.tmp' to '../../../../../../Users/psyche95/Documents/Unreal Projects/Dev_Sample/2DPaperGame/Saved/Autosaves/Game/Blueprints/BP_Knight_Auto2.uasset'
+[2023.10.31-07.01.49:982][988]LogFileHelpers: Auto-saving content packages took 0.015
+[2023.10.31-07.03.42:411][315]BlueprintLog: New page: Compile BP_Knight
+[2023.10.31-07.03.42:438][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.10.31-07.04.36:693][698]BlueprintLog: New page: Compile BP_Knight
+[2023.10.31-07.04.36:720][698]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.10.31-07.04.44:776][616]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.31-07.04.44:781][616]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.31-07.04.44:781][616]PIE: New page: PIE session: DevMap (2023. 11. 1. 오전 1:04:44)
+[2023.10.31-07.04.44:781][616]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DevMap
+[2023.10.31-07.04.44:783][616]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001511s)
+[2023.10.31-07.04.44:783][616]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DevMap.DevMap to /Game/Maps/UEDPIE_0_DevMap.DevMap (0.001553s)
+[2023.10.31-07.04.44:793][616]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2023.10.31-07.04.44:796][616]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.31-07.04.44:796][616]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.31-07.04.44:796][616]LogAIModule: Creating AISystem for world DevMap
+[2023.10.31-07.04.44:797][616]LogPlayLevel: PIE: World Init took: (0.001049s)
+[2023.10.31-07.04.44:797][616]LogAudio: Display: Creating Audio Device:                 Id: 31, Scope: Unique, Realtime: True
+[2023.10.31-07.04.44:797][616]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.31-07.04.44:797][616]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.31-07.04.44:797][616]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.31-07.04.44:797][616]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.31-07.04.44:797][616]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.31-07.04.44:797][616]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.31-07.04.44:797][616]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.31-07.04.44:797][616]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.31-07.04.44:797][616]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.31-07.04.44:797][616]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.31-07.04.44:797][616]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.31-07.04.44:800][616]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.31-07.04.44:820][616]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output(Realtek(R) Audio)
+[2023.10.31-07.04.44:820][616]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.31-07.04.44:820][616]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.31-07.04.44:820][616]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.31-07.04.44:821][616]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=31
+[2023.10.31-07.04.44:821][616]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=31
+[2023.10.31-07.04.44:822][616]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=31
+[2023.10.31-07.04.44:822][616]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=31
+[2023.10.31-07.04.44:823][616]LogInit: FAudioDevice initialized with ID 31.
+[2023.10.31-07.04.44:823][616]LogAudio: Display: Audio Device (ID: 31) registered with world 'DevMap'.
+[2023.10.31-07.04.44:823][616]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 31
+[2023.10.31-07.04.44:825][616]LogLoad: Game class is 'GameModeBase'
+[2023.10.31-07.04.44:825][616]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DevMap.DevMap up for play (max tick rate 0) at 2023.10.31-16.04.44
+[2023.10.31-07.04.44:825][616]LogWorld: Bringing up level for play took: 0.000416
+[2023.10.31-07.04.44:827][616]LogOnline: OSS: Created online subsystem instance for: :Context_34
+[2023.10.31-07.04.44:827][616]PIE: Server logged in
+[2023.10.31-07.04.44:828][616]PIE: Play in editor total start time 0.049 seconds.
+[2023.10.31-07.04.59:181][325]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.31-07.04.59:181][325]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DevMap
+[2023.10.31-07.04.59:181][325]LogWorld: UWorld::CleanupWorld for DevMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.31-07.04.59:181][325]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.31-07.04.59:195][325]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.31-07.04.59:196][325]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.31-07.04.59:206][325]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.10.31-07.04.59:206][325]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 31
+[2023.10.31-07.04.59:206][325]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2023.10.31-07.04.59:207][325]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=31
+[2023.10.31-07.04.59:211][325]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.31-07.04.59:213][325]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2023.10.31-07.04.59:265][327]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2023.10.31-07.05.47:431][953]BlueprintLog: New page: Compile BP_Knight
+[2023.10.31-07.05.47:455][953]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.10.31-07.05.49:845][233]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.10.31-07.05.49:850][233]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.31-07.05.49:881][233]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Knight" FILE="../../../../../../Users/psyche95/Documents/Unreal Projects/Dev_Sample/2DPaperGame/Content/Blueprints/BP_Knight.uasset" SILENT=true
+[2023.10.31-07.05.49:895][233]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Knight
+[2023.10.31-07.05.49:896][233]LogSavePackage: Moving '../../../../../../Users/psyche95/Documents/Unreal Projects/Dev_Sample/2DPaperGame/Saved/BP_KnightF70833A8462DE48781997ABD27DD9AFC.tmp' to '../../../../../../Users/psyche95/Documents/Unreal Projects/Dev_Sample/2DPaperGame/Content/Blueprints/BP_Knight.uasset'
+[2023.10.31-07.05.49:901][233]LogFileHelpers: InternalPromptForCheckoutAndSave took 51 ms (total: 1.96 sec)
+[2023.10.31-07.05.49:903][233]AssetCheck: New page: Asset Save: BP_Knight
+[2023.10.31-07.05.49:903][233]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Knight.BP_Knight
+[2023.10.31-07.06.00:177][390]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/Blueprints/BP_Knight.BP_Knight without an associated node. The blueprint breakpoint has been removed
+[2023.10.31-07.06.00:177][390]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/Blueprints/BP_Knight.BP_Knight without an associated node. The blueprint breakpoint has been removed
+[2023.10.31-07.06.09:964][532]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/Blueprints/BP_Knight.BP_Knight without an associated node. The blueprint breakpoint has been removed
+[2023.10.31-07.06.09:964][532]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/Blueprints/BP_Knight.BP_Knight without an associated node. The blueprint breakpoint has been removed
+[2023.10.31-07.06.11:010][656]BlueprintLog: New page: Compile BP_Knight
+[2023.10.31-07.06.11:033][656]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.10.31-07.06.17:948][414]BlueprintLog: New page: Compile BP_Knight
+[2023.10.31-07.06.17:974][414]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.10.31-07.06.19:374][561]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.10.31-07.06.19:378][561]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.10.31-07.06.19:378][561]PIE: New page: PIE session: DevMap (2023. 11. 1. 오전 1:06:19)
+[2023.10.31-07.06.19:378][561]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_DevMap
+[2023.10.31-07.06.19:379][561]LogPlayLevel: PIE: StaticDuplicateObject took: (0.000845s)
+[2023.10.31-07.06.19:379][561]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/DevMap.DevMap to /Game/Maps/UEDPIE_0_DevMap.DevMap (0.000870s)
+[2023.10.31-07.06.19:387][561]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2023.10.31-07.06.19:390][561]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.10.31-07.06.19:390][561]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.10.31-07.06.19:390][561]LogAIModule: Creating AISystem for world DevMap
+[2023.10.31-07.06.19:390][561]LogPlayLevel: PIE: World Init took: (0.000808s)
+[2023.10.31-07.06.19:390][561]LogAudio: Display: Creating Audio Device:                 Id: 32, Scope: Unique, Realtime: True
+[2023.10.31-07.06.19:390][561]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.10.31-07.06.19:390][561]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.10.31-07.06.19:390][561]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.10.31-07.06.19:390][561]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.10.31-07.06.19:390][561]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.10.31-07.06.19:390][561]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.10.31-07.06.19:390][561]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.10.31-07.06.19:391][561]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.10.31-07.06.19:391][561]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.10.31-07.06.19:391][561]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.10.31-07.06.19:391][561]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.10.31-07.06.19:393][561]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.10.31-07.06.19:416][561]LogAudioMixer: Display: Using Audio Hardware Device Realtek HD Audio 2nd output(Realtek(R) Audio)
+[2023.10.31-07.06.19:416][561]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.10.31-07.06.19:416][561]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.10.31-07.06.19:416][561]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.10.31-07.06.19:416][561]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=32
+[2023.10.31-07.06.19:416][561]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=32
+[2023.10.31-07.06.19:418][561]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=32
+[2023.10.31-07.06.19:418][561]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=32
+[2023.10.31-07.06.19:418][561]LogInit: FAudioDevice initialized with ID 32.
+[2023.10.31-07.06.19:418][561]LogAudio: Display: Audio Device (ID: 32) registered with world 'DevMap'.
+[2023.10.31-07.06.19:418][561]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 32
+[2023.10.31-07.06.19:420][561]LogLoad: Game class is 'GameModeBase'
+[2023.10.31-07.06.19:420][561]LogWorld: Bringing World /Game/Maps/UEDPIE_0_DevMap.DevMap up for play (max tick rate 0) at 2023.10.31-16.06.19
+[2023.10.31-07.06.19:421][561]LogWorld: Bringing up level for play took: 0.000434
+[2023.10.31-07.06.19:422][561]LogOnline: OSS: Created online subsystem instance for: :Context_35
+[2023.10.31-07.06.19:423][561]PIE: Server logged in
+[2023.10.31-07.06.19:423][561]PIE: Play in editor total start time 0.046 seconds.
+[2023.10.31-07.06.24:329][139]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.31-07.06.24:329][139]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_DevMap
+[2023.10.31-07.06.24:329][139]LogWorld: UWorld::CleanupWorld for DevMap, bSessionEnded=true, bCleanupResources=true
+[2023.10.31-07.06.24:329][139]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.31-07.06.24:346][139]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.10.31-07.06.24:348][139]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.10.31-07.06.24:354][139]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.10.31-07.06.24:354][139]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 32
+[2023.10.31-07.06.24:354][139]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2023.10.31-07.06.24:355][139]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=32
+[2023.10.31-07.06.24:360][139]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2023.10.31-07.06.24:399][140]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2023.10.31-07.12.09:669][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.10.31-07.12.09:671][219]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/DevMap' took 0.013
+[2023.10.31-07.12.09:672][219]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/BP_Knight] ([2] browsable assets)...
+[2023.10.31-07.12.09:672][219]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/BP_Knight]
+[2023.10.31-07.12.09:686][219]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Blueprints/BP_Knight_Auto3
+[2023.10.31-07.12.09:686][219]LogSavePackage: Moving '../../../../../../Users/psyche95/Documents/Unreal Projects/Dev_Sample/2DPaperGame/Saved/BP_Knight_Auto343E917F74657713C233D379A3AC42A93.tmp' to '../../../../../../Users/psyche95/Documents/Unreal Projects/Dev_Sample/2DPaperGame/Saved/Autosaves/Game/Blueprints/BP_Knight_Auto3.uasset'
+[2023.10.31-07.12.09:687][219]LogFileHelpers: Auto-saving content packages took 0.015
+[2023.10.31-07.32.32:687][519]LogDerivedDataCache: C:/Users/psyche95/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:23.031 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 13615 files in 11985 folders with total size 958 MiB.
+[2023.10.31-08.26.07:691][687]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.205.174:59146, Sequence=0
+[2023.10.31-08.32.32:975][842]LogDerivedDataCache: C:/Users/psyche95/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:23.149 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 13615 files in 11985 folders with total size 958 MiB.
+[2023.10.31-09.32.33:012][638]LogDerivedDataCache: C:/Users/psyche95/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:23.054 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 13615 files in 11985 folders with total size 958 MiB.
+[2023.10.31-09.44.24:212][959]LogUObjectHash: Compacting FUObjectHashTables data took  15.87ms
+[2023.10.31-09.44.24:283][959]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.10.31-09.44.24:354][959]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/BP_Knight" FILE="../../../../../../Users/psyche95/Documents/Unreal Projects/Dev_Sample/2DPaperGame/Content/Blueprints/BP_Knight.uasset" SILENT=true
+[2023.10.31-09.44.24:468][959]LogSavePackage: Moving output files for package: /Game/Blueprints/BP_Knight
+[2023.10.31-09.44.24:469][959]LogSavePackage: Moving '../../../../../../Users/psyche95/Documents/Unreal Projects/Dev_Sample/2DPaperGame/Saved/BP_KnightCCBA8DAF401AA5A48C8B598B57614E64.tmp' to '../../../../../../Users/psyche95/Documents/Unreal Projects/Dev_Sample/2DPaperGame/Content/Blueprints/BP_Knight.uasset'
+[2023.10.31-09.44.24:484][959]LogFileHelpers: InternalPromptForCheckoutAndSave took 200 ms (total: 2.16 sec)
+[2023.10.31-09.44.24:499][959]AssetCheck: New page: Asset Save: BP_Knight
+[2023.10.31-09.44.24:500][959]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Blueprints/BP_Knight.BP_Knight
